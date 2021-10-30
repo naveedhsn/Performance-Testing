@@ -1,0 +1,91 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1635569441482,5565,HTTP Req01,200,OK,Thread Group 1-2,text,true,,36981,273,10,10,https://lifecharger.org/books-i-am-reading/,2410,0,1102
+1635569441482,2419,HTTP Req01-0,301,Moved Permanently,Thread Group 1-2,text,true,,984,136,10,10,https://lifecharger.org/books-i-am-reading,2410,0,1102
+1635569443905,3142,HTTP Req01-1,200,OK,Thread Group 1-2,text,true,,35997,137,10,10,https://lifecharger.org/books-i-am-reading/,2531,0,0
+1635569441151,7535,HTTP Req01,200,OK,Thread Group 1-1,text,true,,36981,273,10,10,https://lifecharger.org/books-i-am-reading/,2741,0,1433
+1635569441151,2750,HTTP Req01-0,301,Moved Permanently,Thread Group 1-1,text,true,,984,136,10,10,https://lifecharger.org/books-i-am-reading,2741,0,1433
+1635569443905,4781,HTTP Req01-1,200,OK,Thread Group 1-1,text,true,,35997,137,10,10,https://lifecharger.org/books-i-am-reading/,3485,0,0
+1635569441979,6709,HTTP Req01,200,OK,Thread Group 1-3,text,true,,36981,273,10,10,https://lifecharger.org/books-i-am-reading/,2814,0,631
+1635569441979,2814,HTTP Req01-0,301,Moved Permanently,Thread Group 1-3,text,true,,984,136,10,10,https://lifecharger.org/books-i-am-reading,2814,0,631
+1635569444794,3894,HTTP Req01-1,200,OK,Thread Group 1-3,text,true,,35997,137,10,10,https://lifecharger.org/books-i-am-reading/,3249,0,0
+1635569442978,5821,HTTP Req01,200,OK,Thread Group 1-5,text,true,,36981,273,10,10,https://lifecharger.org/books-i-am-reading/,2123,0,707
+1635569442978,2123,HTTP Req01-0,301,Moved Permanently,Thread Group 1-5,text,true,,984,136,10,10,https://lifecharger.org/books-i-am-reading,2123,0,707
+1635569445101,3698,HTTP Req01-1,200,OK,Thread Group 1-5,text,true,,35997,137,10,10,https://lifecharger.org/books-i-am-reading/,3078,0,0
+1635569443475,6439,HTTP Req01,200,OK,Thread Group 1-6,text,true,,36981,273,10,10,https://lifecharger.org/books-i-am-reading/,2957,0,823
+1635569443475,2957,HTTP Req01-0,301,Moved Permanently,Thread Group 1-6,text,true,,984,136,10,10,https://lifecharger.org/books-i-am-reading,2957,0,823
+1635569446432,3482,HTTP Req01-1,200,OK,Thread Group 1-6,text,true,,35997,137,10,10,https://lifecharger.org/books-i-am-reading/,2870,0,0
+1635569444486,7131,HTTP Req01,200,OK,Thread Group 1-8,text,true,,36981,273,10,10,https://lifecharger.org/books-i-am-reading/,2903,0,629
+1635569444486,2903,HTTP Req01-0,301,Moved Permanently,Thread Group 1-8,text,true,,984,136,10,10,https://lifecharger.org/books-i-am-reading,2903,0,629
+1635569447390,4227,HTTP Req01-1,200,OK,Thread Group 1-8,text,true,,35997,137,10,10,https://lifecharger.org/books-i-am-reading/,3652,0,0
+1635569442477,9282,HTTP Req01,200,OK,Thread Group 1-4,text,true,,36981,273,10,10,https://lifecharger.org/books-i-am-reading/,4470,0,1816
+1635569443976,7783,HTTP Req01,200,OK,Thread Group 1-7,text,true,,36981,273,10,10,https://lifecharger.org/books-i-am-reading/,3173,0,647
+1635569442477,4470,HTTP Req01-0,301,Moved Permanently,Thread Group 1-4,text,true,,984,136,10,10,https://lifecharger.org/books-i-am-reading,4470,0,1816
+1635569443976,3173,HTTP Req01-0,301,Moved Permanently,Thread Group 1-7,text,true,,984,136,10,10,https://lifecharger.org/books-i-am-reading,3173,0,647
+1635569446947,4812,HTTP Req01-1,200,OK,Thread Group 1-4,text,true,,35997,137,10,10,https://lifecharger.org/books-i-am-reading/,4199,0,0
+1635569447149,4610,HTTP Req01-1,200,OK,Thread Group 1-7,text,true,,35997,137,10,10,https://lifecharger.org/books-i-am-reading/,3995,0,0
+1635569444974,8627,HTTP Req01,200,OK,Thread Group 1-9,text,true,,36981,273,10,10,https://lifecharger.org/books-i-am-reading/,4327,0,754
+1635569444974,4327,HTTP Req01-0,301,Moved Permanently,Thread Group 1-9,text,true,,984,136,10,10,https://lifecharger.org/books-i-am-reading,4327,0,754
+1635569449302,4299,HTTP Req01-1,200,OK,Thread Group 1-9,text,true,,35997,137,10,10,https://lifecharger.org/books-i-am-reading/,3683,0,0
+1635569445474,11200,HTTP Req01,200,OK,Thread Group 1-10,text,true,,36981,273,10,10,https://lifecharger.org/books-i-am-reading/,5568,0,1582
+1635569445474,5568,HTTP Req01-0,301,Moved Permanently,Thread Group 1-10,text,true,,984,136,10,10,https://lifecharger.org/books-i-am-reading,5568,0,1582
+1635569451042,5632,HTTP Req01-1,200,OK,Thread Group 1-10,text,true,,35997,137,10,10,https://lifecharger.org/books-i-am-reading/,5011,0,0
+1635569447051,10253,HTTP Req02,200,OK,Thread Group 1-2,text,true,,57432,253,10,10,https://lifecharger.org/archives/,3872,0,0
+1635569447051,3872,HTTP Req02-0,301,Moved Permanently,Thread Group 1-2,text,true,,974,126,10,10,https://lifecharger.org/archives,3872,0,0
+1635569450923,6381,HTTP Req02-1,200,OK,Thread Group 1-2,text,true,,56458,127,10,10,https://lifecharger.org/archives/,5341,0,0
+1635569448800,9409,HTTP Req02,200,OK,Thread Group 1-5,text,true,,57432,253,10,10,https://lifecharger.org/archives/,3472,0,0
+1635569448800,3472,HTTP Req02-0,301,Moved Permanently,Thread Group 1-5,text,true,,974,126,10,10,https://lifecharger.org/archives,3472,0,0
+1635569452272,5937,HTTP Req02-1,200,OK,Thread Group 1-5,text,true,,56458,127,10,10,https://lifecharger.org/archives/,5031,0,0
+1635569448688,10237,HTTP Req02,200,OK,Thread Group 1-1,text,true,,57437,253,10,10,https://lifecharger.org/archives/,3584,0,0
+1635569448688,3584,HTTP Req02-0,301,Moved Permanently,Thread Group 1-1,text,true,,974,126,10,10,https://lifecharger.org/archives,3584,0,0
+1635569452272,6653,HTTP Req02-1,200,OK,Thread Group 1-1,text,true,,56463,127,10,10,https://lifecharger.org/archives/,5031,0,0
+1635569448689,10236,HTTP Req02,200,OK,Thread Group 1-3,text,true,,57432,253,10,10,https://lifecharger.org/archives/,3583,0,0
+1635569448689,3583,HTTP Req02-0,301,Moved Permanently,Thread Group 1-3,text,true,,974,126,10,10,https://lifecharger.org/archives,3583,0,0
+1635569452272,6653,HTTP Req02-1,200,OK,Thread Group 1-3,text,true,,56458,127,10,10,https://lifecharger.org/archives/,5730,0,0
+1635569449916,9423,HTTP Req02,200,OK,Thread Group 1-6,text,true,,57432,253,10,10,https://lifecharger.org/archives/,3076,0,0
+1635569449916,3076,HTTP Req02-0,301,Moved Permanently,Thread Group 1-6,text,true,,974,126,10,10,https://lifecharger.org/archives,3076,0,0
+1635569452991,6348,HTTP Req02-1,200,OK,Thread Group 1-6,text,true,,56458,127,10,10,https://lifecharger.org/archives/,5216,0,0
+1635569451759,9214,HTTP Req02,200,OK,Thread Group 1-4,text,true,,57432,253,10,10,https://lifecharger.org/archives/,4504,0,0
+1635569451759,4504,HTTP Req02-0,301,Moved Permanently,Thread Group 1-4,text,true,,974,126,10,10,https://lifecharger.org/archives,4504,0,0
+1635569456263,4710,HTTP Req02-1,200,OK,Thread Group 1-4,text,true,,56458,127,10,10,https://lifecharger.org/archives/,3785,0,0
+1635569451759,9426,HTTP Req02,200,OK,Thread Group 1-7,text,true,,57432,253,10,10,https://lifecharger.org/archives/,4504,0,0
+1635569451759,4504,HTTP Req02-0,301,Moved Permanently,Thread Group 1-7,text,true,,974,126,10,10,https://lifecharger.org/archives,4504,0,0
+1635569451617,9568,HTTP Req02,200,OK,Thread Group 1-8,text,true,,57432,253,10,10,https://lifecharger.org/archives/,4315,0,0
+1635569456263,4922,HTTP Req02-1,200,OK,Thread Group 1-7,text,true,,56458,127,10,10,https://lifecharger.org/archives/,3900,0,0
+1635569451617,4315,HTTP Req02-0,301,Moved Permanently,Thread Group 1-8,text,true,,974,126,10,10,https://lifecharger.org/archives,4315,0,0
+1635569455932,5253,HTTP Req02-1,200,OK,Thread Group 1-8,text,true,,56458,127,10,10,https://lifecharger.org/archives/,4231,0,0
+1635569453601,9816,HTTP Req02,200,OK,Thread Group 1-9,text,true,,57432,253,10,10,https://lifecharger.org/archives/,4401,0,0
+1635569453601,4401,HTTP Req02-0,301,Moved Permanently,Thread Group 1-9,text,true,,974,126,10,10,https://lifecharger.org/archives,4401,0,0
+1635569458002,5415,HTTP Req02-1,200,OK,Thread Group 1-9,text,true,,56458,127,10,10,https://lifecharger.org/archives/,4352,0,0
+1635569457304,7028,HTTP Req03,200,OK,Thread Group 1-2,text,true,,36323,247,10,10,https://lifecharger.org/about/,2743,0,0
+1635569457304,2743,HTTP Req03-0,301,Moved Permanently,Thread Group 1-2,text,true,,1019,123,10,10,https://lifecharger.org/about,2743,0,0
+1635569460048,4284,HTTP Req03-1,200,OK,Thread Group 1-2,text,true,,35304,124,10,10,https://lifecharger.org/about/,3993,0,0
+1635569458210,7371,HTTP Req03,200,OK,Thread Group 1-5,text,true,,36323,247,9,9,https://lifecharger.org/about/,2975,0,0
+1635569458210,2975,HTTP Req03-0,301,Moved Permanently,Thread Group 1-5,text,true,,1019,123,9,9,https://lifecharger.org/about,2975,0,0
+1635569461186,4395,HTTP Req03-1,200,OK,Thread Group 1-5,text,true,,35304,124,9,9,https://lifecharger.org/about/,4087,0,0
+1635569456675,9418,HTTP Req02,200,OK,Thread Group 1-10,text,true,,57432,253,8,8,https://lifecharger.org/archives/,3372,0,0
+1635569456675,3372,HTTP Req02-0,301,Moved Permanently,Thread Group 1-10,text,true,,974,126,8,8,https://lifecharger.org/archives,3372,0,0
+1635569460048,6045,HTTP Req02-1,200,OK,Thread Group 1-10,text,true,,56458,127,8,8,https://lifecharger.org/archives/,5124,0,0
+1635569458926,7433,HTTP Req03,200,OK,Thread Group 1-3,text,true,,36323,247,8,8,https://lifecharger.org/about/,3428,0,0
+1635569458926,3428,HTTP Req03-0,301,Moved Permanently,Thread Group 1-3,text,true,,1019,123,8,8,https://lifecharger.org/about,3428,0,0
+1635569462355,4004,HTTP Req03-1,200,OK,Thread Group 1-3,text,true,,35304,124,8,8,https://lifecharger.org/about/,3738,0,0
+1635569459340,7267,HTTP Req03,200,OK,Thread Group 1-6,text,true,,36323,247,7,7,https://lifecharger.org/about/,2757,0,0
+1635569459340,2757,HTTP Req03-0,301,Moved Permanently,Thread Group 1-6,text,true,,1019,123,7,7,https://lifecharger.org/about,2757,0,0
+1635569462098,4509,HTTP Req03-1,200,OK,Thread Group 1-6,text,true,,35304,124,7,7,https://lifecharger.org/about/,4199,0,0
+1635569458926,8090,HTTP Req03,200,OK,Thread Group 1-1,text,true,,36323,247,6,6,https://lifecharger.org/about/,3171,0,0
+1635569458926,3171,HTTP Req03-0,301,Moved Permanently,Thread Group 1-1,text,true,,1019,123,6,6,https://lifecharger.org/about,3171,0,0
+1635569462098,4918,HTTP Req03-1,200,OK,Thread Group 1-1,text,true,,35304,124,6,6,https://lifecharger.org/about/,4205,0,0
+1635569460978,7368,HTTP Req03,200,OK,Thread Group 1-4,text,true,,36323,247,5,5,https://lifecharger.org/about/,4194,0,0
+1635569460978,4194,HTTP Req03-0,301,Moved Permanently,Thread Group 1-4,text,true,,1019,123,5,5,https://lifecharger.org/about,4194,0,0
+1635569465172,3174,HTTP Req03-1,200,OK,Thread Group 1-4,text,true,,35304,124,5,5,https://lifecharger.org/about/,2865,0,0
+1635569461186,7226,HTTP Req03,200,OK,Thread Group 1-7,text,true,,36323,247,4,4,https://lifecharger.org/about/,4087,0,0
+1635569461186,4087,HTTP Req03-0,301,Moved Permanently,Thread Group 1-7,text,true,,1019,123,4,4,https://lifecharger.org/about,4087,0,0
+1635569465273,3139,HTTP Req03-1,200,OK,Thread Group 1-7,text,true,,35304,124,4,4,https://lifecharger.org/about/,2867,0,0
+1635569461186,7466,HTTP Req03,200,OK,Thread Group 1-8,text,true,,36323,247,3,3,https://lifecharger.org/about/,3986,0,0
+1635569461186,3986,HTTP Req03-0,301,Moved Permanently,Thread Group 1-8,text,true,,1019,123,3,3,https://lifecharger.org/about,3986,0,0
+1635569465172,3480,HTTP Req03-1,200,OK,Thread Group 1-8,text,true,,35304,124,3,3,https://lifecharger.org/about/,2868,0,0
+1635569463418,5746,HTTP Req03,200,OK,Thread Group 1-9,text,true,,36323,247,2,2,https://lifecharger.org/about/,2939,0,0
+1635569463418,2939,HTTP Req03-0,301,Moved Permanently,Thread Group 1-9,text,true,,1019,123,2,2,https://lifecharger.org/about,2939,0,0
+1635569466358,2806,HTTP Req03-1,200,OK,Thread Group 1-9,text,true,,35304,124,2,2,https://lifecharger.org/about/,2191,0,0
+1635569466094,3794,HTTP Req03,200,OK,Thread Group 1-10,text,true,,36323,247,1,1,https://lifecharger.org/about/,2251,0,0
+1635569466094,2251,HTTP Req03-0,301,Moved Permanently,Thread Group 1-10,text,true,,1019,123,1,1,https://lifecharger.org/about,2251,0,0
+1635569468345,1543,HTTP Req03-1,200,OK,Thread Group 1-10,text,true,,35304,124,1,1,https://lifecharger.org/about/,1230,0,0
